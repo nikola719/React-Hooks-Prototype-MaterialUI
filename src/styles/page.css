@@ -1,0 +1,13 @@
+.post-container {
+    border: 1px solid black;
+    margin-top: 1em;
+    padding: 1em;
+}
+
+.post-container:hover {
+    cursor: pointer;
+}
+
+.post-container.highlight {
+    border-color: red;
+}
